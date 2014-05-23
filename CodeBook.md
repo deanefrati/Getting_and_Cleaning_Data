@@ -15,12 +15,12 @@ The script will merge the training and test datasets and output a new file (outp
 
 There will be 30 subjects in the output file and for each mean measurements for the following activities:
 
-LAYING 
-SITTING 
-STANDING 
-WALKING 
-WALKING_DOWNSTAIRS 
-WALKING_UPSTAIRS
+* LAYING 
+* SITTING 
+* STANDING 
+* WALKING 
+* WALKING_DOWNSTAIRS 
+* WALKING_UPSTAIRS
 
 These are the measurements available in the output file:
 
